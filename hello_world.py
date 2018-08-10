@@ -4,7 +4,7 @@ name = "Karthik"
 
 message = 'John said to me " I will see you later " '
 
-longMessage = """Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+long_message = """Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown 
 printer took a galley of type and scrambled it to make a type specimen book. It has survived 
 not only five centuries, but also the leap into electronic typesetting, remaining essentially 
@@ -18,4 +18,4 @@ print(x)
 
 print(message)
 
-print(longMessage)
+print(long_message)
